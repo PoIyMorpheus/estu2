@@ -1,0 +1,15 @@
+.carousel-item  h4{
+    color: rgb(33,37,41);
+}
+
+#publications-stats{
+    margin-top: 100px;
+}
+
+@media only screen and (max-width: 900px) {
+    footer {
+        width: 100%;
+        bottom: 0;
+        position: fixed;
+    }
+}

@@ -1,0 +1,29 @@
+.active{
+    font-size: large;
+}
+
+.dropdown-menu{
+    margin-top: 3px;
+}
+
+.logo{
+    margin-left: auto;
+    margin-right: 15px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 250px;
+}
+
+footer{
+    background-color: rgb(33,37,41);
+    color: rgb(151,153,147);
+    font-family: "Helvetica";
+    padding: 12px;
+}
+
+footer a:link{
+    text-decoration: none;
+    color:rgb(151,153,147);
+}
+
+

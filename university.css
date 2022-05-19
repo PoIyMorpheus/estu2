@@ -1,0 +1,19 @@
+#carouselIndicators{
+    margin-top: 130px;
+}
+
+#about-us{
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+#administrative-and-education{
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+@media screen and (max-width: 900px) {
+    #education{
+        margin-top: 30px;
+    }
+} 

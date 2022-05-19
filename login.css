@@ -1,0 +1,35 @@
+#login-form{
+    margin-top: 150px;
+    margin-bottom: 100px;
+    padding: 20px;
+    border-radius: 5px;
+    background-color: rgb(33,37,41);
+}
+
+#login-form  label{
+    color: white;
+}
+#emailHelp{
+    color: rgb(151,153,147);
+}
+
+@media only screen and (min-width: 900px) {
+    #login-form{
+        margin-left: 30%;
+        margin-right: 30%;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    #login-form{
+        margin-bottom: 70%;
+    }
+}
+
+.gradient-custom {
+    background: linear-gradient(to right, rgb(151,153,147), rgb(142,25,22))
+}
+
+#forget-password{
+    margin-left: 5px;
+}
